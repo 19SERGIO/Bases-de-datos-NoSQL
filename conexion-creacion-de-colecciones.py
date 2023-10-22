@@ -1,4 +1,4 @@
 import pymongo
-conexion=pymongo.MongoClient("mongo://localhost:21017")
+conexion = pymongo.MongoClient("mongodb://localhost:27017")
 bd = conexion["Sena"]
 instructores =bd["instructores"]
