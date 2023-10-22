@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "65347e513d796f3e838aaf55"
+  }
+},
+{
+  "_id": {
+    "$oid": "65347e9d3d796f3e838aaf56"
+  },
+  "nombre": "Kevin Castaño Atehortua",
+  "area": "Analisis",
+  "regional": "Tolima"
+}]

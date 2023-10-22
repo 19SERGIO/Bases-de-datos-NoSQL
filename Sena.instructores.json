@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "65347770bd0fba9cbf86d90d"
+  },
+  "nombre": "Juan Perez",
+  "area": "Electronica",
+  "regional": "Valle"
+},
+{
+  "_id": {
+    "$oid": "653478b2bd0fba9cbf86d90f"
+  },
+  "nombre": "Karen Atehortua Castaño",
+  "area": "Programacion",
+  "regional": "Caldas",
+  "lenguajes": "Python  "
+},
+{
+  "_id": {
+    "$oid": "653478bbbd0fba9cbf86d911"
+  },
+  "nombre": "Juan Diego Castaño Londoño",
+  "area": "Electronica",
+  "regional": "Tolima"
+},
+{
+  "_id": {
+    "$oid": "653478c3bd0fba9cbf86d913"
+  },
+  "nombre": "Angela Maria Londoño",
+  "area": "Software",
+  "regional": "Quindio"
+},
+{
+  "_id": {
+    "$oid": "653478c8bd0fba9cbf86d915"
+  },
+  "nombre": "Alfredo Castaño",
+  "area": "Automatizacion",
+  "regional": "Santander"
+},
+{
+  "_id": {
+    "$oid": "65347911bd0fba9cbf86d917"
+  },
+  "nombre": "Sergio David Castaño Londoño",
+  "area": "Software",
+  "correo": "sergiodavid@gmail.com",
+  "lenguajes": [
+    "Java",
+    ".Net",
+    "PHP"
+  ]
+}]
